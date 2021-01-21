@@ -32,7 +32,8 @@
    : `key: Your Key`
 
 
-   *You can add marker any where in location with rightclick, if you want to save that locations to DB the only things that you need is add an Api and call that api when this click happend in vueJs => **resources/js/app.js:82>handleMapClick()** *
+   * You can add marker any where in location with rightclick, if you want to save that locations to DB the only things that you need is add an Api and call that api when this click happend in vueJs => **resources/js/app.js:82>handleMapClick()** *
+
    
 
 ## Done.
